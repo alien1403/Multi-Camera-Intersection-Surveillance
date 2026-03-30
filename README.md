@@ -1,6 +1,6 @@
 # Multi-Camera Intersection Surveillance
 
-A fully automatic computer vision pipeline for multi-camera analysis of urban intersections. Built for the *Beyond One View* project at the University of Bucharest, Faculty of Mathematics and Computer Science.
+A fully automatic computer vision pipeline for multi-camera analysis of urban intersections.
 
 ---
 
